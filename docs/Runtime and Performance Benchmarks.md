@@ -11,6 +11,7 @@ AMD Ryzen 3 1200 @ 3.1 GHz (boost clock to 3.4 GHz)
 </p>
 <br/>
 <img src="https://raw.githubusercontent.com/hershyz/LSTP/master/assets/errormargin.png"/>
+<img src="https://raw.githubusercontent.com/hershyz/LSTP/master/assets/epochs.png"/>
 <pre>
 
 <strong>Trial 1:</strong>
@@ -86,5 +87,29 @@ Training Runtime:  11 ms
 <p>
   It can be seen that the neuron determines weights very quickly and does not need to go through a large amount of epochs to make accurate predictions.<br/>
   The error margin in these trials started at 10, and ended at 0.000889. This was the lowest error margin the program could calculate weights around.<br/>
-  The training runtime only increased by 5-6 milliseconds in these trials even though the error margin become more than 10,000 times more precise.
+  The training runtime only increased by 5-6 milliseconds in these trials even though the error margin become more than 10,000 times more precise.<br/>
+  Below is the input and output data that these benchmarks were achieved on.
 </p>
+<pre>
+<strong>Inputs:                 Outputs:</strong>
+300,1500,4              180
+225,1025,0              167
+180,1500,1              145
+174,1000,3              150
+500,1200,3              200
+800,1700,4              230
+710,1544,5              240
+602,2040,7              210
+620,1324,8              210
+620,1300,0              234
+711,1025,1              200
+810,1720,4              250
+198,2000,4              123
+140,1000,0              141
+900,2000,4              273
+620,1762,1              210
+180,1000,0              143
+502,1200,7              198
+290,1200,0              170
+710,2000,5              199
+</pre>
