@@ -6,10 +6,11 @@ AMD Ryzen 3 1200 @ 3.1 GHz (boost clock to 3.4 GHz)
 </pre>
 <p>
   The graphics performance on a system does not affect runtime as the training process is not GPU accelerated.<br/>
-  Below is a log of autotraining error margins, epochs completed, and training runtimes.<br/>
+  Below are graphs and logs of autotraining error margins, epochs completed, and training runtimes.<br/>
   Assume no outliers in the datasets.
 </p>
 <br/>
+<img src="https://raw.githubusercontent.com/hershyz/LSTP/master/assets/errormargin.png"/>
 <pre>
 
 <strong>Trial 1:</strong>
