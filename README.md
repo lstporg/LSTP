@@ -12,8 +12,8 @@ LSTP uses a regression algorithm combined with a proportional weight adjustment 
 
 <h4>Docs</h4>
 <ul>
-  <li><a href="">Installation Guide</a></li>
-  <li><a href="">Training and Predictions</a></li>
-  <li><a href="">How it Works</a></li>
-  <li><a href="">Runtime and Performance Benchmarks</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/blob/master/docs/Installation%20Guide.md">Installation Guide</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/blob/master/docs/Training%20and%20Predictions.md">Training and Predictions</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/blob/master/docs/How%20it%20Works.md">How it Works</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/blob/master/docs/Runtime%20and%20Performance%20Benchmarks.md">Runtime and Performance Benchmarks</a></li>
 </ul>
