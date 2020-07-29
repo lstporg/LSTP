@@ -8,8 +8,6 @@ The neuron and synapses are programmed differently than a traditional neural net
 LSTP uses a regression algorithm combined with a proportional weight adjustment formula to make predictions during and after the training process.</br>
 </p>
 
-<br/>
-
 <h4>Docs</h4>
 <ul>
   <li><a href="https://github.com/hershyz/LSTP/blob/master/docs/Installation%20Guide.md">Installation Guide</a></li>
