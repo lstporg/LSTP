@@ -94,7 +94,7 @@ public class Neuron {
                 //Adjusts weights according to error:
                 double error = test - real;
                 for (int i = 0; i < weights.length; i++) {
-                    error = (error * inputs.get(row)[i]) / 1000000;
+                    error = (error * inputs.get(row)[i]) / 10000000;
                     weights[i] = weights[i] - error;
                 }
 
