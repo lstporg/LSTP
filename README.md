@@ -36,4 +36,11 @@
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/us%20education">US Education</a></li>
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/vehicle">Vehicle</a></li>
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/satellite">Satellite</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/heart%20statlog">Heart Statlog</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/liver%20disorders">Liver Disorders</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/madelon">Madelon</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/waveform%205000">Waveform 5000</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/diabetes">Diabetes</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/iris">Iris</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/phoneme">Phoneme</a></li>
 </ul>
