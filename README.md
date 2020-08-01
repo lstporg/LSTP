@@ -38,4 +38,5 @@
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/satellite">Satellite</a></li>
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/heart%20statlog">Heart Statlog</a></li>
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/liver%20disorders">Liver Disorders</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/madelon">Madelon</a></li>
 </ul>
