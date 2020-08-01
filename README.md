@@ -42,4 +42,5 @@
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/waveform%205000">Waveform 5000</a></li>
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/diabetes">Diabetes</a></li>
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/iris">Iris</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/phoneme">Phoneme</a></li>
 </ul>
