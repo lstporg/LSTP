@@ -39,4 +39,5 @@
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/heart%20statlog">Heart Statlog</a></li>
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/liver%20disorders">Liver Disorders</a></li>
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/madelon">Madelon</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/waveform%205000">Waveform 5000</a></li>
 </ul>
