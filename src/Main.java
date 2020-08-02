@@ -79,7 +79,12 @@ public class Main {
                 List<Double> outputs = outlierEliminator.getNewOutputs();
 
                 //Displays training inputs and outputs:
-                diagnostics.displayTrainingData(inputs, outputs);
+                System.out.print("Display training inputs and outputs? (Y/N) ");
+                String yn = scn.nextLine();
+                yn = yn.toLowerCase();
+                if (yn.equals("y")) {
+                    diagnostics.displayTrainingData(inputs, outputs);
+                }
 
                 //Initializes neuron:
                 Neuron neuron = new Neuron(inputs, outputs);
