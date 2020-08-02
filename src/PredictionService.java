@@ -19,7 +19,7 @@ public class PredictionService {
                 for (int i = 0; i < vals.length; i++) {
                     prediction = prediction + (vals[i] * weights[i]);
                 }
-                System.out.println("[line " + j + "]: " + prediction);
+                System.out.println("[line " + (j + 1) + "]: " + prediction);
             }
         }
         catch (Exception e) {
