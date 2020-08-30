@@ -46,4 +46,5 @@
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/breast%20cancer">Breast Cancer</a></li>
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/haberman">Haberman</a></li>
   <li><a href="https://github.com/hershyz/LSTP/tree/master/data/blood%20transfusion%20service%20center">Blood Transfusion Service Center</a></li>
+  <li><a href="https://github.com/hershyz/LSTP/tree/master/data/eeg%20eye%20state">Eeg Eye State</a></li>
 </ul>
